@@ -1,4 +1,4 @@
-# Untitled
+
 
 # Transistor
 
@@ -6,13 +6,7 @@ A transistor is a semiconductor device used to amplify or switch electrical sign
 
 A basic transistor has  three terminals, two for current flow and one to block it or let it flow. When voltage is added on the third terminal, the current flows and vise versa.
 
----
 
----
-
----
-
----
 
 # CSS
 
